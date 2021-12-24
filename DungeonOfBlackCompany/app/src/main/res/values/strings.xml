@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DungeonOfBlackCompany</string>
+    <string name="tab_text_1">RELIC</string>
+    <string name="tab_text_2">ITEMS</string>
+    <string name="tab_text_3">DAILY</string>
+    <string name="relics_1">1</string>
+    <string name="relics_2">2</string>
+    <string name="relics_3">3</string>
+    <string name="relics_4">4</string>
+    <string name="relics_5">5</string>
+    <string name="relics_6">6</string>
+    <string name="items_1">1</string>
+    <string name="items_2">2</string>
+    <string name="items_3">3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
