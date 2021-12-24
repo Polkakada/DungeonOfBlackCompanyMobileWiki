@@ -1,7 +1,7 @@
 # DungeonOfBlackCompanyMobileWiki
  
-#Мобильная вики для игры DungeonOfBlackCompany
-#Содержит:
-#список реликвий 
-#списко предметов
-#лидербоард по dailyrun
+Мобильная вики для игры DungeonOfBlackCompany
+Содержит:
+список реликвий 
+списко предметов
+лидербоард по dailyrun
